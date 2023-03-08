@@ -5,4 +5,4 @@ In order to run the project, setup .env and set MONGO_URI variable equal to DB c
 In order to avoid port collisions, in the source code port value is 3000
 
 
-[Task-Manager Heroku URL](https://imms-task-manager.herokuapp.com)
+[Task-Manager Render URL](https://task-manager-sgl2.onrender.com)
